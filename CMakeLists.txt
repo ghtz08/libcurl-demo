@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(hell_curl)
+project(hello_curl)
 
 # list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake/modules)
 include(cmake/Dependencies.cmake)
